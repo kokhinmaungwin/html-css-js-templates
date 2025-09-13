@@ -1,3 +1,0 @@
-.entry-views{color:#000;font-size:14px;visibility:hidden;opacity:0;transition:all .2s ease}
-.entry-views[data-view]{visibility:visible;opacity:1}
-.entry-views::after{content:attr(data-view) ' views'}
