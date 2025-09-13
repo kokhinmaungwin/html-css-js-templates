@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": true,
+    "BlogID_0000000000000000000": {
+      ".read": true,
+      "$post_id": {
+        ".write": "newData.exists() && (data.exists() ? newData.val() == data.val() + 1 : newData.val() == 1)",
+        ".validate": "newData.isNumber() && newData.val() % 1 === 0.0 && newData.val() <= 99999999"
+      }
+    }
+  }
+}
