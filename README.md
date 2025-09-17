@@ -35,5 +35,59 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
    <link rel="stylesheet" href="../css/style.css">
    <script src="../js/script.js"></script>
 
-## https://www.khinmaungwin.dpdns.org
-## https://khinmaungwin.ct.ws
+# My Project
+
+ဒီ README မှာ အမျိုးမျိုးသော Website Link ထည့်နည်းနမူနာတွေ စမ်းထားပါတယ် 👇
+
+---
+
+## 1) ရိုးရိုး Markdown Link
+[Visit My Blog](https://www.khinmaungwin.dpdns.org)
+
+---
+
+## 2) Badge (Shields.io)
+[![Visit My Blog](https://img.shields.io/badge/Visit-My%20Blog-blue)](https://www.khinmaungwin.dpdns.org)
+
+---
+
+## 3) Button-like Badge
+[![Open Website](https://img.shields.io/badge/Open-Website-brightgreen)](https://www.khinmaungwin.dpdns.org)
+
+---
+
+## 4) HTML Anchor (open new tab)
+<a href="https://www.khinmaungwin.dpdns.org" target="_blank" rel="noopener noreferrer">Visit My Blog (open in new tab)</a>
+
+---
+
+## 5) Image + Link
+[![My Website Screenshot](https://example.com/screenshot.png)](https://www.khinmaungwin.dpdns.org)
+
+---
+
+## 6) Link List
+- [Official site](https://www.khinmaungwin.dpdns.org)
+- [Documentation](https://www.khinmaungwin.dpdns.org/docs)
+- [Contact](mailto:you@example.com)
+
+---
+
+## 7) Table with Links
+| Resource | Link |
+|---|---|
+| Website | [mywebsite.com](https://www.khinmaungwin.dpdns.org) |
+| Docs | [Docs](https://mywebsite.com/docs) |
+
+---
+
+## 8) Emoji + Link
+- 🔗 [Visit My Blog](https://mywebsite.com)
+- 📘 [Documentation](https://mywebsite.com/docs)
+
+---
+
+## 9) Local Image + Link (repo ထဲ assets ဖိုင်သုံးရမယ်)
+[![My Website](assets/button.png)](https://mywebsite.com)
+
+---
