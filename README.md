@@ -91,3 +91,13 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
 [![My Website](assets/button.png)](https://mywebsite.com)
 
 ---
+
+# My Profile Links
+
+## Profile Picture → Website
+[![My Profile Picture](https://avatars.githubusercontent.com/kokhinmaungwin)](https://mywebsite.com)
+
+---
+
+## Profile Picture → GitHub Profile
+[![My Profile Picture](https://avatars.githubusercontent.com/kokhinmaungwin)](https://github.com/kokhinmaungwin)
