@@ -102,6 +102,7 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
   <img src="https://avatars.githubusercontent.com/kokhinmaungwin" 
        alt="kokhinmaungwin github profile" 
        width="120" 
+       height="120"
        style="border-radius:50%;" />
 </a>
 
