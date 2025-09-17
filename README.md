@@ -34,3 +34,6 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
    ```html
    <link rel="stylesheet" href="../css/style.css">
    <script src="../js/script.js"></script>
+
+## https://www.khinmaungwin.dpdns.org
+## https://khinmaungwin.ct.ws
