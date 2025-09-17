@@ -91,13 +91,18 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
 [![My Website](assets/button.png)](https://mywebsite.com)
 
 ---
+<a href="https://mywebsite.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://avatars.githubusercontent.com/kokhinmaungwin" 
+       alt="kokhinmaungwin profile" 
+       width="150" 
+       style="border-radius:50%;" />
+</a>
 
-# My Profile Links
+<a href="https://github.com/kokhinmaungwin" target="_blank" rel="noopener noreferrer">
+  <img src="https://avatars.githubusercontent.com/kokhinmaungwin" 
+       alt="kokhinmaungwin github profile" 
+       width="120" 
+       style="border-radius:50%;" />
+</a>
 
-## Profile Picture → Website
-[![My Profile Picture](https://avatars.githubusercontent.com/kokhinmaungwin)](https://mywebsite.com)
 
----
-
-## Profile Picture → GitHub Profile
-[![My Profile Picture](https://avatars.githubusercontent.com/kokhinmaungwin)](https://github.com/kokhinmaungwin)
