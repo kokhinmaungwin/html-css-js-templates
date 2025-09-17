@@ -35,9 +35,6 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
    <link rel="stylesheet" href="../css/style.css">
    <script src="../js/script.js"></script>
 
-# My Project
-
-ဒီ README မှာ အမျိုးမျိုးသော Website Link ထည့်နည်းနမူနာတွေ စမ်းထားပါတယ် 👇
 
 ---
 
@@ -53,16 +50,6 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
 
 ## 3) Button-like Badge
 [![Open Website](https://img.shields.io/badge/Open-Website-brightgreen)](https://www.khinmaungwin.dpdns.org)
-
----
-
-## 4) HTML Anchor (open new tab)
-<a href="https://www.khinmaungwin.dpdns.org" target="_blank" rel="noopener noreferrer">Visit My Blog (open in new tab)</a>
-
----
-
-## 5) Image + Link
-[![My Website Screenshot](https://example.com/screenshot.png)](https://www.khinmaungwin.dpdns.org)
 
 ---
 
@@ -87,23 +74,5 @@ Includes ready-made templates, interactive widgets, and multi-file tools for qui
 
 ---
 
-## 9) Local Image + Link (repo ထဲ assets ဖိုင်သုံးရမယ်)
-[![My Website](assets/button.png)](https://mywebsite.com)
-
----
-<a href="https://mywebsite.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://avatars.githubusercontent.com/kokhinmaungwin" 
-       alt="kokhinmaungwin profile" 
-       width="150" 
-       style="border-radius:50%;" />
-</a>
-
-<a href="https://github.com/kokhinmaungwin" target="_blank" rel="noopener noreferrer">
-  <img src="https://avatars.githubusercontent.com/kokhinmaungwin" 
-       alt="kokhinmaungwin github profile" 
-       width="120" 
-       height="120"
-       style="border-radius:50%;" />
-</a>
 
 
